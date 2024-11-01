@@ -1,0 +1,759 @@
+{
+    "recipes": [
+        {
+            "name": "Chicken Fajitas",
+            "cost": "$",
+            "cuisine": "Mexican",
+            "cooking_time": 30,
+            "ingredients": [
+                "2 chicken breasts",
+                "2 bell peppers",
+                "1 onion",
+                "2 tbsp fajita seasoning",
+                "8 tortillas"
+            ],
+            "directions": [
+                "Slice chicken, peppers, and onions",
+                "Season chicken with fajita seasoning",
+                "Cook chicken in a large skillet until done",
+                "Add peppers and onions, cook until tender",
+                "Serve with warm tortillas"
+            ]
+        },
+        {
+            "name": "Beef Stir Fry",
+            "cost": "$$",
+            "cuisine": "Asian",
+            "cooking_time": 25,
+            "ingredients": [
+                "1 lb beef strips",
+                "Mixed vegetables",
+                "Soy sauce",
+                "Ginger",
+                "Garlic"
+            ],
+            "directions": [
+                "Marinate beef in soy sauce, ginger, and garlic",
+                "Heat wok or large pan",
+                "Stir-fry beef until browned",
+                "Add vegetables and cook until tender",
+                "Serve over rice"
+            ]
+        },
+        {
+            "name": "Seafood Risotto",
+            "cost": "$$$",
+            "cuisine": "Italian",
+            "cooking_time": 45,
+            "ingredients": [
+                "Arborio rice",
+                "Mixed seafood",
+                "White wine",
+                "Fish stock",
+                "Parmesan cheese"
+            ],
+            "directions": [
+                "Toast rice in butter",
+                "Add wine and let it absorb",
+                "Gradually add hot stock while stirring",
+                "Add seafood near the end",
+                "Finish with parmesan and butter"
+            ]
+        },
+        {
+            "name": "Vegetarian Buddha Bowl",
+            "cost": "$",
+            "cuisine": "Vegetarian",
+            "cooking_time": 20,
+            "ingredients": [
+                "Quinoa",
+                "Sweet potato",
+                "Chickpeas",
+                "Kale",
+                "Tahini dressing"
+            ],
+            "directions": [
+                "Cook quinoa according to package instructions",
+                "Roast sweet potato and chickpeas",
+                "Massage kale with olive oil",
+                "Assemble bowl with all ingredients",
+                "Drizzle with tahini dressing"
+            ]
+        },
+        {
+            "name": "Classic Spaghetti Carbonara",
+            "cost": "$$",
+            "cuisine": "Italian",
+            "cooking_time": 25,
+            "ingredients": [
+                "Spaghetti",
+                "Guanciale or pancetta",
+                "Eggs",
+                "Pecorino Romano",
+                "Black pepper"
+            ],
+            "directions": [
+                "Cook pasta in salted water",
+                "Crisp guanciale in a pan",
+                "Mix eggs and cheese",
+                "Combine hot pasta with egg mixture",
+                "Add crispy guanciale and pepper"
+            ]
+        },
+        {
+            "name": "Chicken Fajitas",
+            "cost": "$",
+            "cuisine": "Mexican",
+            "cooking_time": 30,
+            "ingredients": [
+                "2 chicken breasts",
+                "2 bell peppers",
+                "1 onion",
+                "2 tbsp fajita seasoning",
+                "8 tortillas"
+            ],
+            "directions": [
+                "Slice chicken, peppers, and onions",
+                "Season chicken with fajita seasoning",
+                "Cook chicken in a large skillet until done",
+                "Add peppers and onions, cook until tender",
+                "Serve with warm tortillas"
+            ]
+        },
+        {
+            "name": "Beef Bourguignon",
+            "cost": "$$$",
+            "cuisine": "French",
+            "cooking_time": 180,
+            "ingredients": [
+                "3 lbs beef chuck",
+                "8 oz bacon",
+                "2 cups red wine",
+                "Pearl onions",
+                "Mushrooms",
+                "Carrots",
+                "Fresh thyme",
+                "Beef stock"
+            ],
+            "directions": [
+                "Cut beef into large chunks and dry well",
+                "Cook bacon until crispy, remove from pan",
+                "Brown beef in batches in bacon fat",
+                "Add vegetables and sauté",
+                "Add wine and stock, simmer for 3 hours",
+                "Add mushrooms in the last 30 minutes"
+            ]
+        },
+        {
+            "name": "Pad Thai",
+            "cost": "$$",
+            "cuisine": "Thai",
+            "cooking_time": 25,
+            "ingredients": [
+                "Rice noodles",
+                "Tofu or shrimp",
+                "Bean sprouts",
+                "Peanuts",
+                "Tamarind paste",
+                "Fish sauce",
+                "Palm sugar",
+                "Eggs"
+            ],
+            "directions": [
+                "Soak noodles in hot water",
+                "Make sauce with tamarind, fish sauce, and palm sugar",
+                "Stir-fry protein of choice",
+                "Add eggs and scramble",
+                "Add noodles and sauce",
+                "Toss with bean sprouts and peanuts"
+            ]
+        },
+        {
+            "name": "Homemade Pizza",
+            "cost": "$",
+            "cuisine": "Italian",
+            "cooking_time": 45,
+            "ingredients": [
+                "Pizza dough",
+                "Tomato sauce",
+                "Mozzarella",
+                "Toppings of choice",
+                "Olive oil",
+                "Fresh basil"
+            ],
+            "directions": [
+                "Preheat oven to 450°F",
+                "Roll out dough",
+                "Add sauce and toppings",
+                "Bake until crust is golden",
+                "Finish with fresh basil"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "cost": "$$$",
+            "cuisine": "Japanese",
+            "cooking_time": 60,
+            "ingredients": [
+                "Sushi rice",
+                "Nori sheets",
+                "Fresh fish",
+                "Cucumber",
+                "Avocado",
+                "Rice vinegar",
+                "Wasabi",
+                "Soy sauce"
+            ],
+            "directions": [
+                "Cook and season rice",
+                "Prepare fillings",
+                "Place nori on bamboo mat",
+                "Spread rice and add fillings",
+                "Roll tightly and cut"
+            ]
+        },
+        {
+            "name": "Butter Chicken",
+            "cost": "$$",
+            "cuisine": "Indian",
+            "cooking_time": 45,
+            "ingredients": [
+                "Chicken thighs",
+                "Yogurt",
+                "Tomato paste",
+                "Heavy cream",
+                "Garam masala",
+                "Butter",
+                "Garlic",
+                "Ginger"
+            ],
+            "directions": [
+                "Marinate chicken in yogurt and spices",
+                "Cook chicken until done",
+                "Make sauce with tomato and cream",
+                "Combine chicken and sauce",
+                "Finish with butter"
+            ]
+        },
+        {
+            "name": "Greek Salad",
+            "cost": "$",
+            "cuisine": "Greek",
+            "cooking_time": 15,
+            "ingredients": [
+                "Cucumber",
+                "Tomatoes",
+                "Red onion",
+                "Feta cheese",
+                "Kalamata olives",
+                "Olive oil",
+                "Oregano"
+            ],
+            "directions": [
+                "Chop vegetables",
+                "Combine in bowl",
+                "Add feta and olives",
+                "Dress with olive oil",
+                "Season with oregano"
+            ]
+        },
+        {
+            "name": "Beef Wellington",
+            "cost": "$$$",
+            "cuisine": "British",
+            "cooking_time": 120,
+            "ingredients": [
+                "Beef tenderloin",
+                "Puff pastry",
+                "Mushroom duxelles",
+                "Prosciutto",
+                "Dijon mustard",
+                "Egg wash"
+            ],
+            "directions": [
+                "Sear beef and coat with mustard",
+                "Spread mushroom duxelles on prosciutto",
+                "Wrap beef in prosciutto and mushrooms",
+                "Wrap in puff pastry",
+                "Bake until golden"
+            ]
+        },
+        {
+            "name": "Pho",
+            "cost": "$$",
+            "cuisine": "Vietnamese",
+            "cooking_time": 180,
+            "ingredients": [
+                "Beef bones",
+                "Rice noodles",
+                "Bean sprouts",
+                "Thai basil",
+                "Star anise",
+                "Cinnamon",
+                "Ginger",
+                "Onion"
+            ],
+            "directions": [
+                "Make broth with bones and spices",
+                "Cook rice noodles",
+                "Assemble bowls with noodles",
+                "Add hot broth",
+                "Serve with herbs and sprouts"
+            ]
+        },
+        {
+            "name": "Shakshuka",
+            "cost": "$",
+            "cuisine": "Middle Eastern",
+            "cooking_time": 30,
+            "ingredients": [
+                "Eggs",
+                "Tomatoes",
+                "Bell peppers",
+                "Onion",
+                "Cumin",
+                "Paprika",
+                "Feta cheese"
+            ],
+            "directions": [
+                "Sauté vegetables",
+                "Add tomatoes and spices",
+                "Create wells for eggs",
+                "Cook eggs in sauce",
+                "Top with feta"
+            ]
+        },
+        {
+            "name": "Lobster Thermidor",
+            "cost": "$$$",
+            "cuisine": "French",
+            "cooking_time": 60,
+            "ingredients": [
+                "Lobster",
+                "Heavy cream",
+                "Gruyere cheese",
+                "Mushrooms",
+                "White wine",
+                "Mustard",
+                "Tarragon"
+            ],
+            "directions": [
+                "Cook lobster",
+                "Make mushroom cream sauce",
+                "Remove lobster meat",
+                "Combine with sauce",
+                "Gratinate with cheese"
+            ]
+        },
+        {
+            "name": "Veggie Bibimbap",
+            "cost": "$$",
+            "cuisine": "Korean",
+            "cooking_time": 45,
+            "ingredients": [
+                "Rice",
+                "Spinach",
+                "Carrots",
+                "Mushrooms",
+                "Bean sprouts",
+                "Gochujang",
+                "Sesame oil",
+                "Egg"
+            ],
+            "directions": [
+                "Cook rice",
+                "Prepare vegetables separately",
+                "Arrange in bowl over rice",
+                "Top with fried egg",
+                "Serve with gochujang"
+            ]
+        },
+        {
+            "name": "Paella",
+            "cost": "$$$",
+            "cuisine": "Spanish",
+            "cooking_time": 60,
+            "ingredients": [
+                "Bomba rice",
+                "Saffron",
+                "Shrimp",
+                "Mussels",
+                "Chorizo",
+                "Bell peppers",
+                "Peas"
+            ],
+            "directions": [
+                "Toast rice with sofrito",
+                "Add saffron and stock",
+                "Add seafood and meat",
+                "Cook until rice is done",
+                "Create socarrat"
+            ]
+        },
+        {
+            "name": "Chicken Schnitzel",
+            "cost": "$$",
+            "cuisine": "German",
+            "cooking_time": 30,
+            "ingredients": [
+                "Chicken breast",
+                "Breadcrumbs",
+                "Eggs",
+                "Flour",
+                "Lemon",
+                "Parsley"
+            ],
+            "directions": [
+                "Pound chicken thin",
+                "Dredge in flour, egg, breadcrumbs",
+                "Fry until golden",
+                "Serve with lemon",
+                "Garnish with parsley"
+            ]
+        },
+        {
+            "name": "Ramen",
+            "cost": "$$",
+            "cuisine": "Japanese",
+            "cooking_time": 240,
+            "ingredients": [
+                "Pork bones",
+                "Ramen noodles",
+                "Chashu pork",
+                "Soft-boiled egg",
+                "Nori",
+                "Green onions",
+                "Bamboo shoots"
+            ],
+            "directions": [
+                "Make bone broth",
+                "Prepare toppings",
+                "Cook noodles",
+                "Assemble bowl",
+                "Add hot broth"
+            ]
+        },
+        {
+            "name": "Falafel Plate",
+            "cost": "$",
+            "cuisine": "Middle Eastern",
+            "cooking_time": 40,
+            "ingredients": [
+                "Chickpeas",
+                "Fresh herbs",
+                "Garlic",
+                "Cumin",
+                "Pita bread",
+                "Tahini sauce",
+                "Cucumber",
+                "Tomatoes"
+            ],
+            "directions": [
+                "Blend chickpea mixture",
+                "Form into balls",
+                "Fry until crispy",
+                "Make tahini sauce",
+                "Serve with vegetables"
+            ]
+        },
+        {
+            "name": "Moules Mariniere",
+            "cost": "$$",
+            "cuisine": "French",
+            "cooking_time": 25,
+            "ingredients": [
+                "Mussels",
+                "White wine",
+                "Shallots",
+                "Garlic",
+                "Cream",
+                "Parsley",
+                "Butter"
+            ],
+            "directions": [
+                "Clean mussels",
+                "Sauté aromatics",
+                "Add wine and cream",
+                "Steam mussels",
+                "Garnish with parsley"
+            ]
+        },
+        {
+            "name": "Lamb Biryani",
+            "cost": "$$$",
+            "cuisine": "Indian",
+            "cooking_time": 120,
+            "ingredients": [
+                "Basmati rice",
+                "Lamb",
+                "Yogurt",
+                "Saffron",
+                "Whole spices",
+                "Onions",
+                "Mint",
+                "Ghee"
+            ],
+            "directions": [
+                "Marinate lamb",
+                "Par-cook rice",
+                "Layer meat and rice",
+                "Add saffron milk",
+                "Steam until done"
+            ]
+        },
+        {
+            "name": "Caesar Salad",
+            "cost": "$",
+            "cuisine": "American",
+            "cooking_time": 20,
+            "ingredients": [
+                "Romaine lettuce",
+                "Parmesan",
+                "Croutons",
+                "Anchovies",
+                "Egg yolk",
+                "Garlic",
+                "Lemon juice"
+            ],
+            "directions": [
+                "Make dressing",
+                "Prepare croutons",
+                "Chop lettuce",
+                "Toss with dressing",
+                "Add cheese and croutons"
+            ]
+        },
+        {
+            "name": "Tom Yum Soup",
+            "cost": "$$",
+            "cuisine": "Thai",
+            "cooking_time": 35,
+            "ingredients": [
+                "Shrimp",
+                "Lemongrass",
+                "Kaffir lime leaves",
+                "Galangal",
+                "Chili",
+                "Mushrooms",
+                "Fish sauce",
+                "Lime juice"
+            ],
+            "directions": [
+                "Make aromatic broth",
+                "Add mushrooms",
+                "Cook shrimp",
+                "Season with fish sauce",
+                "Finish with lime juice"
+            ]
+        },
+        {
+            "name": "Beef Tacos",
+            "cost": "$",
+            "cuisine": "Mexican",
+            "cooking_time": 25,
+            "ingredients": [
+                "Ground beef",
+                "Taco seasoning",
+                "Tortillas",
+                "Lettuce",
+                "Tomatoes",
+                "Cheese",
+                "Sour cream"
+            ],
+            "directions": [
+                "Brown beef",
+                "Add seasoning",
+                "Warm tortillas",
+                "Prepare toppings",
+                "Assemble tacos"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "cost": "$",
+            "cuisine": "Italian",
+            "cooking_time": 25,
+            "ingredients": [
+                "200g spaghetti",
+                "100g pancetta",
+                "2 eggs",
+                "1/2 cup grated Parmesan",
+                "Salt and pepper"
+            ],
+            "directions": [
+                "Cook spaghetti according to package instructions.",
+                "Fry pancetta in a pan until crispy.",
+                "Whisk eggs and Parmesan in a bowl.",
+                "Combine spaghetti and pancetta with egg mixture off heat.",
+                "Serve with extra Parmesan and pepper."
+            ]
+        },
+        {
+            "name": "Vegetable Stir-Fry",
+            "cost": "$",
+            "cuisine": "Chinese",
+            "cooking_time": 20,
+            "ingredients": [
+                "1 cup broccoli",
+                "1 cup bell peppers",
+                "1/2 cup carrots",
+                "2 tbsp soy sauce",
+                "1 tbsp sesame oil"
+            ],
+            "directions": [
+                "Chop vegetables into bite-sized pieces.",
+                "Heat sesame oil in a skillet.",
+                "Add vegetables and stir-fry until tender.",
+                "Add soy sauce and cook for 2 more minutes.",
+                "Serve with rice or noodles."
+            ]
+        },
+        {
+            "name": "Shrimp Tacos",
+            "cost": "$$",
+            "cuisine": "Mexican",
+            "cooking_time": 20,
+            "ingredients": [
+                "1/2 lb shrimp",
+                "1 tbsp taco seasoning",
+                "8 small tortillas",
+                "1/2 cup shredded lettuce",
+                "1/2 cup diced tomatoes",
+                "1/4 cup sour cream"
+            ],
+            "directions": [
+                "Season shrimp with taco seasoning.",
+                "Cook shrimp in a skillet until pink.",
+                "Warm tortillas in a pan or oven.",
+                "Assemble tacos with shrimp, lettuce, and tomatoes.",
+                "Top with sour cream."
+            ]
+        },
+        {
+            "name": "Beef Bourguignon",
+            "cost": "$$$",
+            "cuisine": "French",
+            "cooking_time": 180,
+            "ingredients": [
+                "1 lb beef stew meat",
+                "1 cup red wine",
+                "2 cups beef broth",
+                "1 onion",
+                "2 carrots",
+                "2 tbsp tomato paste",
+                "1 tbsp flour"
+            ],
+            "directions": [
+                "Brown beef in a Dutch oven.",
+                "Add chopped onion and carrots, cook until softened.",
+                "Stir in tomato paste and flour.",
+                "Add red wine and beef broth, bring to a simmer.",
+                "Cover and cook on low heat for 3 hours."
+            ]
+        },
+        {
+            "name": "Pad Thai",
+            "cost": "$$",
+            "cuisine": "Thai",
+            "cooking_time": 30,
+            "ingredients": [
+                "200g rice noodles",
+                "1/2 cup tofu or chicken",
+                "1 egg",
+                "1/4 cup bean sprouts",
+                "2 tbsp soy sauce",
+                "1 tbsp fish sauce",
+                "1 tbsp lime juice",
+                "Crushed peanuts"
+            ],
+            "directions": [
+                "Cook noodles according to package.",
+                "Fry tofu or chicken until browned.",
+                "Scramble egg in the same pan.",
+                "Add noodles, sauces, and lime juice to pan.",
+                "Toss in bean sprouts and serve with peanuts."
+            ]
+        },
+        {
+            "name": "Margherita Pizza",
+            "cost": "$",
+            "cuisine": "Italian",
+            "cooking_time": 20,
+            "ingredients": [
+                "1 pizza crust",
+                "1/2 cup tomato sauce",
+                "1 cup mozzarella cheese",
+                "Fresh basil leaves",
+                "1 tbsp olive oil"
+            ],
+            "directions": [
+                "Preheat oven to 425°F.",
+                "Spread tomato sauce over crust.",
+                "Top with mozzarella and basil.",
+                "Drizzle with olive oil.",
+                "Bake for 15 minutes or until cheese melts."
+            ]
+        },
+        {
+            "name": "Butter Chicken",
+            "cost": "$$$",
+            "cuisine": "Indian",
+            "cooking_time": 45,
+            "ingredients": [
+                "2 chicken breasts",
+                "1/2 cup yogurt",
+                "2 tbsp curry powder",
+                "1 cup tomato puree",
+                "1/2 cup heavy cream",
+                "1 tbsp butter"
+            ],
+            "directions": [
+                "Marinate chicken in yogurt and curry powder for 20 mins.",
+                "Brown chicken in butter in a large skillet.",
+                "Add tomato puree and cook for 10 minutes.",
+                "Stir in cream and simmer until thickened.",
+                "Serve with rice or naan."
+            ]
+        },
+        {
+            "name": "Quiche Lorraine",
+            "cost": "$$",
+            "cuisine": "French",
+            "cooking_time": 50,
+            "ingredients": [
+                "1 pie crust",
+                "1 cup bacon, cooked and chopped",
+                "1/2 cup shredded Gruyère cheese",
+                "3 eggs",
+                "1 cup heavy cream",
+                "Salt and pepper"
+            ],
+            "directions": [
+                "Preheat oven to 375°F.",
+                "Place bacon and cheese in the crust.",
+                "Whisk eggs, cream, salt, and pepper together.",
+                "Pour over bacon and cheese.",
+                "Bake for 35 minutes or until set."
+            ]
+        },
+        {
+            "name": "Chana Masala",
+            "cost": "$",
+            "cuisine": "Indian",
+            "cooking_time": 30,
+            "ingredients": [
+                "1 can chickpeas",
+                "1 onion",
+                "2 tomatoes",
+                "2 tbsp curry powder",
+                "1 cup coconut milk"
+            ],
+            "directions": [
+                "Sauté chopped onion in a pot until golden.",
+                "Add diced tomatoes and curry powder, cook for 5 mins.",
+                "Add chickpeas and coconut milk, simmer for 20 mins.",
+                "Serve with rice or naan."
+            ]
+        }
+    ]
+}
